@@ -102,7 +102,7 @@ function resetForm():void {
     }
 }
 
-
+// Will rest gallons used, and miles driven if form box is double clicked
 function resetBox() {
     let allBoxes = document.querySelectorAll("input[type = text]");
     for (let i = 0; i < 2; i++) {
