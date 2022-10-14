@@ -7,8 +7,10 @@ body {
     border: 3px solid grey;
 }
 h1 {
-	color: blue;
+	color: darkorange;
 	margin-bottom: .25em;
+    text-shadow: .1em .1em black;
+
 }
 label {
 	float: left;
